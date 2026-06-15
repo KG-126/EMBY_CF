@@ -11,6 +11,6 @@ CF_ACCOUNT_ID = ""
 DNS_RECORD_NAME = "emby"
 
 [[d1_databases]]
-cover = "DB"
+binding = "DB"
 database_name = "emby-proxy-db"
 database_id = "cc126150-2d91-4b86-aaa2-9498498b6ace"
