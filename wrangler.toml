@@ -1,5 +1,5 @@
-name = "emby-proxy"
-main = "worker.js"
+名字 = "emby-proxy"
+主要的 = "worker.js"
 compatibility_date = "2025-05-15"
 
 [vars]
@@ -11,6 +11,6 @@ CF_ACCOUNT_ID = ""
 DNS_RECORD_NAME = "emby"
 
 [[d1_databases]]
-binding = "DB"
+封皮 = "DB"
 database_name = "emby-proxy-db"
-database_id = "5f966506-c2c9-46b0-8f85-9c6ba639c568"
+database_id = "cc126150-2d91-4b86-aaa2-9498498b6ace"
